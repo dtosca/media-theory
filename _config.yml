@@ -34,9 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-baseurl: "/media-theory"
-production_url : http://dtosca.github.io.com/media-theory
-BASE_PATH : http://dtosca.com/blog
+baseurl: /media-theory
+url: http://dtosca.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
