@@ -18,10 +18,7 @@ Walter Ong’s *Orality and Literacy* readings had me thinking about jazz music 
 
 Contrasting the practice of jazz with classical music, I want to think more critically about musical scores. With McLuhan’s tetrad of media framework, I’d like to examine sheet music, or musical notation more broadly, as a medium. **Disclaimer**: I’m not an ethnomusicologist and haven’t researched this before, so these are just my superficial initial thoughts. 
 
-Of course, there are many kinds of musical notation systems, each specific to different time periods and cultures. Different notation systems can denote different aspects of musical expressions - dynamics, pitch, rhythm, tempo, tablature. But what I want to specifically examine is the cultural media effects of putting music down on paper or stone, or any medium; any system that attempts to captures musicality - whether that be describing how to play an instrument for a specific song (like tablature), denoting pitches but not rhythms (like early western music), or graphic scores.
-
-<img src="https://github.com/dtosca/media-theory/blob/gh-pages/assets/images/FeldmanGraphicScore.jpg">
-[Graphic Score - Morton Feldman’s Projections 1](http://davidhall.io/visualising-music-graphic-scores/)
+Of course, there are many kinds of musical notation systems, each specific to different time periods and cultures. Different notation systems can denote different aspects of musical expressions - dynamics, pitch, rhythm, tempo, tablature. But what I want to specifically examine is the cultural media effects of putting music down on paper or stone, or any medium; any system that attempts to captures musicality - whether that be describing how to play an instrument for a specific song (like tablature), denoting pitches but not rhythms (like early western music), or [graphic scores](http://davidhall.io/visualising-music-graphic-scores/).
 
 ### Enhances
 Music notation enhances human memory and the body of music that can be collected in a society. You can now have a virtually unlimited repository of cultural music at your disposal, without the strict need for collective human memory to be a limiting factor. With musical notation we get a more-or-less enduring and homogenous body of music for a culture and society. 
