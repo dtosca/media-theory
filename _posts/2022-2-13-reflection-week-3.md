@@ -20,7 +20,7 @@ Contrasting the practice of jazz with classical music, I want to think more crit
 
 Of course, there are many kinds of musical notation systems, each specific to different time periods and cultures. Different notation systems can denote different aspects of musical expressions - dynamics, pitch, rhythm, tempo, tablature. But what I want to specifically examine is the cultural media effects of putting music down on paper or stone, or any medium; any system that attempts to captures musicality - whether that be describing how to play an instrument for a specific song (like tablature), denoting pitches but not rhythms (like early western music), or graphic scores.
 
-![Projections](/assets/images/FeldmanGraphicScore.jpg)
+![Projections](/../assets/images/FeldmanGraphicScore.jpg)
 [Graphic Score - Morton Feldman’s Projections 1](http://davidhall.io/visualising-music-graphic-scores/)
 
 ### Enhances
@@ -40,7 +40,7 @@ There is some ambiguity in the tetrad and some overlap in the arguments I’ve m
 
 Lastly, looked for some readings on orality in music, and there are quite a few articles I’d like to get back to. Here’s a list I’ve compiled:
 * [Orality, Literacy and Music's Creative Potential: A Comparative Approach](https://www.jstor.org/stable/pdf/40318372.pdf) 
-* [Oral tradition | Grove Music](https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-1002292603)
+* [Oral tradition - Grove Music](https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-1002292603)
 * [Stitching: Orality, Literacy, and Music](https://libra2.lib.virginia.edu/downloads/d504rk69j?filename=c7a1d2680f9b507dc8014c9209c2526d.pdf)
 * [Rethinking Oral Tradition in the Learning of Jazz Improvisation](https://www.tandfonline.com/doi/full/10.1080/03007760600670372)
 * [Rethinking the Orality-Literacy Paradigm in Musicology](https://www.researchgate.net/publication/236796791_Rethinking_the_Orality-Literacy_Paradigm_in_Musicology)
