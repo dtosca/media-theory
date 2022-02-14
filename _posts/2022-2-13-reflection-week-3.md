@@ -20,7 +20,7 @@ Contrasting the practice of jazz with classical music, I want to think more crit
 
 Of course, there are many kinds of musical notation systems, each specific to different time periods and cultures. Different notation systems can denote different aspects of musical expressions - dynamics, pitch, rhythm, tempo, tablature. But what I want to specifically examine is the cultural media effects of putting music down on paper or stone, or any medium; any system that attempts to captures musicality - whether that be describing how to play an instrument for a specific song (like tablature), denoting pitches but not rhythms (like early western music), or graphic scores.
 
-![Projections](/../assets/images/FeldmanGraphicScore.jpg)
+![Projections](https://github.com/dtosca/media-theory/blob/gh-pages/assets/images/FeldmanGraphicScore.jpg)
 [Graphic Score - Morton Feldman’s Projections 1](http://davidhall.io/visualising-music-graphic-scores/)
 
 ### Enhances
