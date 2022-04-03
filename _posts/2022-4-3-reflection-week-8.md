@@ -15,11 +15,13 @@ The experience was my first real failure as an artist. Until that point, I hadn�
 
 Situating that with the readings this week, the essay *Telematic Embrace: A Love Story?* had a line that stood out to me:
 > Crucial to Ascott’s theory and practice of Telematic Art is the transformation of the viewer into an active participator who collaborates in creating the work, which is never a static product, but always remains in process throughout its duration.
+
 I think *Musical Swings* (and most other Daily Tous Les Jours public installations) really embodies this ethos - the art cannot exist without an active participator, it is not static, it is a process. The swings don’t make music without the audience - and the more collaboration exists, the more the work is transformed. There is a temporality to it - the music stops when the participation and swinging stops.
 
 I’ve also been thinking about queerness lately (I will always be thinking about it), and the telematic art essay made me think about one of my favorite art pieces of all time [*“Untitled” (Portrait of Ross in L.A.)* by Felix Gonzalez-Torres](https://publicdelivery.org/felix-gonzalez-torres-untitled-portrait-of-ross-in-l-a-1991/). Its use of audience participation is stunning and devastating. There’s a 175 pound pile of candy on the floor, museum goers/the audience takes a piece of candy, and slowly the pile dwindles. The candy represents the body of his boyfriend, Ross Laycock, as AIDS slowly depletes his body. Though it’s not telematic art, the viewer is an active participator in the work (and, in turn, an active participant in the destruction of the queer body). 
 
  The temporal aspect of telematic art made me think about queer temporality (as described in José Esteban Muñoz’s *Cruising Utopia*) and video games. One more quote from the essay:
 >Couchot suggested that telematic networks “offer the artist the only medium really capable of breaking the barriers of time and space and which, one day, will set one free of the limits of individual, national, and cultural intelligence.” 
+
 I wonder where this quote can exist in queerness - when [our time and space, the then and there, is so different from straight time, the here and now](https://lareviewofbooks.org/article/vacating-now-remembering-jose-esteban-munoz/).
 The video game [Queers in love at the end of the world](https://w.itch.io/end-of-the-world) gives me some solace in that - a video game where you have ten seconds to spend with your love before “everything is wiped away.” Video games could be the one of the ultimate forms of love in technology and telematic art.
