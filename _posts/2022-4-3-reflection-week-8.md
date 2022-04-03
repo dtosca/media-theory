@@ -1,6 +1,6 @@
 ---
 layout: post
-title: telematic art, artistic failure, and queer temporality
+title: telematic art
 date: 2022-03-28
 author: Diana Tosca
 comments: true
