@@ -7,7 +7,7 @@ comments: true
 permalink: /week-9-reflection/
 ---
 
-##immigration
+## immigration
 
 While reading *Necropolitics*, I reflected on how my immigrant family fits into the systems of power in this country. I’m Cuban-American, and my immediate family members immigrated from Cuba to the United States (some are still living in Cuba). Cuba itself has a long history with colonization and the United States - we were a Spanish colony, the [U.S. occupied Cuba for a time](https://cri.fiu.edu/us-cuba/chronology-of-us-cuba-relations/), and in modern day we see the effects of this power relationship, especially with the [U.S. embargo](https://www.state.gov/cuba-sanctions/). The reading on [passports and passporting](https://www.proquest.com/docview/2034187887/D5F413FACF054008PQ/2?accountid=12768) contextualized a lot of my family member’s experience with immigration - and made me consider my own difficulties in traveling back to Cuba with my American passport (even as a young child). Both my parents came to this country in the early 90s, during [The Special Period](https://cubaplatform.org/special-period) of extreme economic hardship in Cuba after the dissolution of the Soviet Union.
 
@@ -22,7 +22,7 @@ The state exercises control over immigrants in countless ways - but I’ll talk 
 
 This systemic inequality with a basic human right like healthcare is designed to be difficult for the Other - there is the perception of the Other as being a danger to those in power, “whose biophysical elimination would strengthen [their] potential to life and security.” As stated in *Necropolitics,* “biopower appears to function through dividing people into those who must live and those who must die.” Through my anecdotal experience, it’s clear to me that the US is sending the message that the immigrants are those who must die.
 
-##empathy games
+## empathy games
 
 In part of my midterm assignment, I outlined the problems with empathy games with regards to queerness (but of course, this argument could be expanded to other groups). 
 Considering the subject this week, I want to rephrase my argument from the midterm. My main gripe with empathy games is how they are positioned as serving those in power to understand the Other - in this framework, empathy games have no value outside of subjects in power; anna anthropy made Dys4ia for a queer audience, not for straight people to empathize with her.
