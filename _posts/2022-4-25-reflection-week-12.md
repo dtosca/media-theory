@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: gender is not universal
@@ -7,6 +6,7 @@ author: Diana Tosca
 comments: true
 permalink: /week-12-reflection/
 ---
+
 Growing up in a Cuban/Latine household, I developed a complicated relationship to gender. When I was nine years old, I asked my mother for a Pokémon themed birthday cake. She called [Vicky Bakery](https://www.vickybakery.com/), the go-to bakery for Cuban pastelitos, bocaditos, and catering for parties. And when she asked for the Pokémon themed cake for her “daughter,” they told her they only make Pokémon cakes for boys. I was so devastated; I wrote a letter to Santa Clause that year asking for a Pokémon cake. I remember complaining in the letter, but I didn't question Pokémon being "for boys" - I understood that it was a gendered interest. I liked Yu-Gi-Oh and Digimon, and I knew those were for boys. And I liked Barbies and Bratz dolls, and I knew those toys were for girls. 
 
 I've told people this story, and some of them don't believe me - a (white) person asked me "Why would this bakery say Pokémon is for boys? What do they care, they're losing out on money by not selling you the cake." And I said to that person, they don't understand how rigid gender roles are in the Latino community.I would wear button-up polo shirts and long jeans to visit my family members, and they would often scold me for "dressing like a boy." I was told by my grandmother that I shouldn't play softball because that would lead to me having big, muscular arms, “like a man”. And with that entire cultural upbringing, it took me years after coming out as gay to realize I was also non-binary. Despite how often I was told how *gendered* things were *supposed* to be, I never really internalized it. (Realizing I'm autistic perhaps partially explains this, as [research shows](https://www.spectrumnews.org/news/largest-study-to-date-confirms-overlap-between-autism-and-gender-diversity/) there's a high correlation between gender diversity and autism).
