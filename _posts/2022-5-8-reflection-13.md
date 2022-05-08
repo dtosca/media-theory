@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Capitalism and economic inequality (a review of Paul Graham :grimacing:)
-date: 2022-05-09
+date: 2022-05-08
 author: Diana Tosca
 comments: true
 permalink: /week-13-reflection/
 ---
+
 Once upon a time, in a past life, I dated a tech bro who was an absolute hardcore fanboy of the Silicon Valley Elites, the likes of Peter Thiel, Elon Musk, and Paul Graham. Because of my devotion to this man, I suffered through reading an Elon Musk biography (after which I came to the conclusion that Elon Musk is an edgelord jerk with a large aparthied inheritance). I also read most of Paul Graham’s essays on his website, and stumbled upon one essay he wrote on the topic of [economic inequality](http://www.paulgraham.com/ineq.html). At the time, I didn’t quite have the words to say why Graham’s essay struck a nerve with me. I talked to my then-boyfriend about it, and he arduously came to Paul Graham’s defense; a poor college student from a working class family in rural Florida was arduously defending this whiney tech millionaire. Whyyyyyy?
+
 After seeing [am unrelated bad take from Graham’s Twitter](https://twitter.com/paulg/status/1513917630515757057) recently, I reread his Economic Inequality essay to hurt myself - and after watching the documentary *Capital in the 21st Century*, I think I can safely parse out what’s wrong with the essay. 
 
 Let me lay out the main arguments Paul Graham says in this essay:
@@ -39,4 +41,4 @@ I think the main issue with this statement is Paul Graham not knowing what it’
 
 Perhaps Paul Graham should watch *Capital in the 21st Century* and learn literally anything to get him out of the Silicon Valley mindset. Even if he did watch it, he’d just make an asinine tweet about it. 
 
-With this reflection, I hope to cleanse myself of Paul Graham and hopefully this essay can stop living rent free in my head. 
+With this reflection, I hope to cleanse myself of Paul Graham and hopefully this essay can stop living rent free in my head.
