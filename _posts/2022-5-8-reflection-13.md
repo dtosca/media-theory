@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capitalism and economic inequality (a review of Paul Graham :grimacing:)
+title: Capitalism and economic inequality (a review of Paul Graham)
 date: 2022-05-08
 author: Diana Tosca
 comments: true
