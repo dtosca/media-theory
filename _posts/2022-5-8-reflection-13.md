@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Capitalism and economic inequality (a review of Paul Graham :grimacing:)
-date: 2022-05-9
+date: 2022-05-09
 author: Diana Tosca
 comments: true
-permalink: /12-reflection/
+permalink: /week-12-reflection/
 ---
 Once upon a time, in a past life, I dated a tech bro who was an absolute hardcore fanboy of the Silicon Valley Elites, the likes of Peter Thiel, Elon Musk, and Paul Graham. Because of my devotion to this man, I suffered through reading an Elon Musk biography (after which I came to the conclusion that Elon Musk is an edgelord jerk with a large aparthied inheritance). I also read most of Paul Graham’s essays on his website, and stumbled upon one essay he wrote on the topic of [economic inequality](http://www.paulgraham.com/ineq.html). At the time, I didn’t quite have the words to say why Graham’s essay struck a nerve with me. I talked to my then-boyfriend about it, and he arduously came to Paul Graham’s defense; a poor college student from a working class family in rural Florida was arduously defending this whiney tech millionaire. Whyyyyyy?
 After seeing [am unrelated bad take from Graham’s Twitter](https://twitter.com/paulg/status/1513917630515757057) recently, I reread his Economic Inequality essay to hurt myself - and after watching the documentary *Capital in the 21st Century*, I think I can safely parse out what’s wrong with the essay. 
 
 Let me lay out the main arguments Paul Graham says in this essay:
-Startups aren’t bad, they create wealth, not like those Wall Street goons!
-Economic inequality is caused by many things, and they’re not all bad things!
+1. Startups aren’t bad, they create wealth, not like those Wall Street goons!
+2. Economic inequality is caused by many things, and they’re not all bad things!
 
 To the first point, Paul Graham seems to be under the impression that startups “create wealth” (an empty phrase that he uses over and over again). Thinking back on the documentary, the end of it highlighted a very important idea - humans can be supplanted by technology. So technology is not the end-all-be-all for creating wealth, when it actually can lead to displacing a large portion of the workforce and leading to more economic inequality.
 And as Holly Wood says in her [analysis of the essay](https://qz.com/586563/paul-graham-just-accidentally-explained-everything-wrong-with-silicon-valleys-world-view/), the way that startups are funded mean that they don’t generate wealth. It’s Paul Graham’s Y Combinator startup incubator that funds miniature Grahams using all his money - they’re not generating new wealth, they’re using wealth already given to them. This is akin to the inherited wealth that the documentary describes.
